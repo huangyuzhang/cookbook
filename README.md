@@ -1,5 +1,5 @@
 # cookbook
 
-This is a cookbook for Machine Learning through human learning.
+This is a cookbook for Machine Learning from human learning.
 
-by Yuzhang Huang
+by Yuzhang Huang and friends
