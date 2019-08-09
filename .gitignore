@@ -4,3 +4,7 @@
 */.ipynb_checkpoints
 */log/*
 */logs/*
+
+# untrack locally saved models
+*/bestparams.json
+*/bestweights.h5
