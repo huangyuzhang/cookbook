@@ -2,8 +2,10 @@
 .DS_Store
 */.DS_Store
 */.ipynb_checkpoints
-*/log/*
-*/logs/*
+*/log/
+*/logs/
+.vscode/
+*/.vscode/
 
 # untrack locally saved models
 */bestparams.json
